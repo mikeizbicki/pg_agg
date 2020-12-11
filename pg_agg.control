@@ -1,0 +1,2 @@
+comment = 'adds support for indexes for aggregate queries'
+default_version = 1.0
